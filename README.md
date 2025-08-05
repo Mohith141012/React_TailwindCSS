@@ -7,17 +7,6 @@ This is a simple React project demonstrating how to:
 - Create **multiple reusable components**
 - Pass **data using props** between components
 
-## 📁 Project Structure
-
-react-tailwind-props-demo/
-├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── UserCard.js
-│ │ ├── Message.js
-│ │ └── Footer.js
-│ ├── App.js
-│ └── index.css
 
 ## Components
 ### 1. Header.js
