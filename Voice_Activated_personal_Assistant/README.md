@@ -538,18 +538,10 @@ SOFTWARE.
 - [ ] **Configuration GUI** - Visual settings management
 - [ ] **Voice analytics** - Usage statistics and insights
 
----
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/voice-assistant-aria/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/voice-assistant-aria/discussions)
-- **Email**: support@voice-assistant-aria.com
-- **Documentation**: [Wiki](https://github.com/yourusername/voice-assistant-aria/wiki)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Bachu Mohith**
 
 *"The future of human-computer interaction is voice, and ARIA is your gateway to that future."*
 
