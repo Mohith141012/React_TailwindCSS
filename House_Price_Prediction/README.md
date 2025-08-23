@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Mohith** - mohithbachu@example.com
+- **Mohith** - mohithbachu@gmail.com
 - **Project Link**: https://github.com/Mohith141012/CODEX_internship/House_Price_Prediction
 
 ## 📚 Further Reading
